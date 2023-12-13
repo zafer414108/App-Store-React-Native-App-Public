@@ -2,11 +2,8 @@
 
 ![Image](https://cdn.dribbble.com/userupload/5614167/file/original-ffb1248e901ee525e6bb208d172a967b.png?compress=1&resize=2048x1536)
 
-<p align="left">
-    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <p>
-      Watch Tutorial on YouTube <a href="https://youtu.be/Wp6JtHj4lyM" target="_blank">App Store UI in React Native</a>
-    </p>
+src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+   
     
   </p>
   
