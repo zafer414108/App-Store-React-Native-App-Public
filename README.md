@@ -2,10 +2,9 @@
 
 ![Image](https://cdn.dribbble.com/userupload/5614167/file/original-ffb1248e901ee525e6bb208d172a967b.png?compress=1&resize=2048x1536)
 
-src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-   
+
     
-  </p>
+  
   
 
 ## Get Started
